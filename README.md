@@ -6,9 +6,11 @@ Aplicativo mobile desenvolvido em **React Native + Expo + TypeScript** para moni
 
 ## Integrantes
 
-| Nome | RM |
-|------|----|
-| Ronaldo Veloso Filho | — |
+| Nome | RM | Turma |
+|------|----|----|
+| Felipe Wapf Fettback | 557217 |3ECA |
+| Lucas Rodrigues Grecco | 558261 |3ECA |
+| Ronaldo Veloso Filho | 556445 | 3ECR |
 
 ---
 
